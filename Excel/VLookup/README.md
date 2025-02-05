@@ -1,6 +1,7 @@
 **VLookup Assignment:**  
 
-This assignment showcases solutions to various problems and scenarios involving the *VLOOKUP* function in Microsoft Excel. The VLOOKUP function (Vertical Lookup) is a widely-used tool for searching and retrieving data from a specific column within a table, making it essential for efficient data analysis and reporting.  
+o This assignment showcases solutions to various problems and scenarios involving the *VLOOKUP* function in Microsoft Excel.   
+o The VLOOKUP function (Vertical Lookup) is a widely-used tool for searching and retrieving data from a specific column within a table, making it essential for efficient data analysis and reporting.  
 
 ## Overview  
 
