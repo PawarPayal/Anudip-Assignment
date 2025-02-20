@@ -33,4 +33,5 @@ The dashboard aims to empower hotel managers and analysts with valuable insights
 3. Explore the interactive dashboard to gain insights.
 
  # *Conclusion*
-This project showcases my skills in data visualization and analysis using Power BI. The dashboard serves as a powerful tool for business intelligence in the hospitality industry.
+This project showcases my skills in data visualization and analysis using Power BI.   
+The dashboard serves as a powerful tool for business intelligence in the hospitality industry.
