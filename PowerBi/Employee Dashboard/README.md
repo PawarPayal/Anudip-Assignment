@@ -10,8 +10,11 @@
 1)📊 Comprehensive Metrics:  
 2) 🔍 Interactive Features:  
 3)🎨 Visual Design:   
+
 **🌐Technical Highlights**  
+
 **Data Preparation:**  
+
 1-Cleaned and transformed raw data using Power Query Editor.  
 2-Built optimized data models with well-defined relationships between tables.  
 3-DAX Calculations:Used advanced DAX functions for aggregation, relationships, and complex calculations.  
