@@ -3,8 +3,7 @@
 **Overview:**  
 
 1)"The Employee Dashboard is a dynamic and interactive tool built using Power BI to provide valuable insights into workforce performance, engagement, and other key metrics.   
-
- 2) This project demonstrates the use of advanced Power BI features to analyze employee data and support data-driven decision-making within organizations".  
+2) This project demonstrates the use of advanced Power BI features to analyze employee data and support data-driven decision-making within organizations".  
 
 **Features:**   
 
