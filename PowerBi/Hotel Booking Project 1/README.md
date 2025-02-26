@@ -4,8 +4,8 @@ o This repository contains a dynamic and insightful dashboard built using *Power
 o The project demonstrates data visualization skills and provides actionable insights into hotel performance, booking trends, and customer behavior.  
 
 # Project Overview:
-The Hotel Booking Dashboard is designed to give an overview of key metrics and trends in the hospitality domain.  
-It enables hotel management to:  
+o The Hotel Booking Dashboard is designed to give an overview of key metrics and trends in the hospitality domain.    
+o It enables hotel management to:  
 - Analyze booking patterns.  
 - Understand guest preferences.  
 - Optimize operations and revenue generation.  
