@@ -2,6 +2,7 @@
 # HLOOKUP Assignment
 
 o This assignment showcases solutions to various problems and scenarios involving the **HLOOKUP** function in Microsoft Excel.  
+
 o The HLOOKUP function (Horizontal Lookup) is a powerful tool for searching and retrieving data from a specific row within a table, making it essential for effective data analysis and reporting.  
 
 ## Overview  
