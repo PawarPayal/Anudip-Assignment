@@ -16,10 +16,12 @@ In this assignment, I have solved a series of questions using the VLOOKUP functi
 
 Each question is accompanied by step-by-step explanations and practical examples to demonstrate the use of VLOOKUP effectively.  
 
-## Key Features  
+## Key Features  :
 
 - *Detailed Solutions:* Clear explanations of how each question was solved using VLOOKUP.  
+
 - *Interactive Datasets:* Excel files with sample tables and pre-built VLOOKUP solutions.  
+
 - *Error Handling Tips:* Guidance on troubleshooting and fixing common VLOOKUP issues.  
 
 ## How to Use  
@@ -33,5 +35,7 @@ Each question is accompanied by step-by-step explanations and practical examples
 By completing this assignment:  
 
 1. I have mastered the syntax and functionality of the VLOOKUP function.
-2. 2.Also I have learnt to perform efficient lookups in real-world scenarios.   
+
+2. 2.Also I have learnt to perform efficient lookups in real-world scenarios. 
+  
 3. Developed problem-solving skills for handling errors and optimizing lookups.
