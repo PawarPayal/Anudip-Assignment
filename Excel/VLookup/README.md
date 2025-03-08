@@ -1,4 +1,4 @@
-**VLookup Assignment:**  
+**VLookup (Vertical Lookup) Assignment:**  
 
 o This assignment showcases solutions to various problems and scenarios involving the *VLOOKUP* function in Microsoft Excel. 
   
