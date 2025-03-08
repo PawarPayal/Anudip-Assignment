@@ -1,5 +1,5 @@
 
-# HLOOKUP Assignment
+# HLOOKUP(Horizontal Lookup) Assignment
 
 o This assignment showcases solutions to various problems and scenarios involving the **HLOOKUP** function in Microsoft Excel.  
 
