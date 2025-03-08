@@ -1,2 +1,2 @@
-This ts the basic SQL File .
-Useful for beginners.
+o This ts the basic SQL File .  
+o Useful for beginners.
